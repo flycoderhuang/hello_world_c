@@ -1,3 +1,11 @@
+# codeblocks
+*.cpb
+*.layout
+bin/
+obj/
+
+
+
 # Prerequisites
 *.d
 
